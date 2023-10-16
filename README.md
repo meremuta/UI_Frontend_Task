@@ -8,7 +8,7 @@ https://www.figma.com/file/griaXvELY40SFSy9AVwgXp/UI-Frontend?type=design&node-i
 
 https://www.figma.com/community/file/1292048479549908194
 
-**Страницы: **
+# Страницы:
 
 Начальная страница, логин - index.html
 Страница регистрации - register.html
