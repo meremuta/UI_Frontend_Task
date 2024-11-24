@@ -1,13 +1,15 @@
 # UI_Frontend_Task
 
-Странички созданы по макету:
+The task was to create pages using web-programming following the chosen visual prototype.
 
-[Кусочек макета](https://www.figma.com/file/griaXvELY40SFSy9AVwgXp/UI-Frontend?type=design&node-id=0%3A1&mode=design&t=jI39BmI1kEoVYiFK-1)
+Pages are created according to the layout:
+
+[The layout](https://www.figma.com/file/griaXvELY40SFSy9AVwgXp/UI-Frontend?type=design&node-id=0%3A1&mode=design&t=jI39BmI1kEoVYiFK-1)
 
 
-# Страницы:
+# Pages:
 
-- **Начальная страница, логин** - index.html
-- **Страница регистрации** - register.html
-- **Страница подтверждения почты** - verify.html
-- **Страница предыдущих заказов** - orders.html
+- **Main, login** - index.html
+- **Registration** - register.html
+- **Email confirmation** - verify.html
+- **Page with previous orders** - orders.html
